@@ -86,3 +86,19 @@
 		<img src="https://github-readme-stats.vercel.app/api/pin/?username=SimonKostin98&repo=portfolio&theme=react">
 	</a>
 </p>
+<br />
+
+---
+
+## 📊 GitHub Stats
+
+---
+
+<br />
+<p>
+	<img src="https://github-readme-stats.vercel.app/api?username=SimonKostin98&theme=react" height="192px" style="margin-right: 20px"/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimonKostin98&layout=compact&theme=react" height="192px">
+</p>
+<p>
+	<img src="https://activity-graph.herokuapp.com/graph?username=SimonKostin98&bg_color=20232a&color=ffffff&line=61dafb&point=316d7e" />
+</p>
