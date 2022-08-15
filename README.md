@@ -17,3 +17,14 @@
 		<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=aqua" />
 	</a>
 </p>
+<br />
+
+---
+
+## 🧑🏻‍💻 About Me
+
+---
+
+<p style="font-size: 20px">
+	I'm a <span style="color: #00BCD4">Full Stack Developer</span> who specializes in building scalable and flexible web applications. I have been coding for 8+ years and graduated with a B.Sc. in <span style="color: #00BCD4">Computer Science</span> and a M.Sc. in <span style="color: #00BCD4">Software Engineering</span>. As an avid learner, I like to try out the <span style="color: #00BCD4">latest technologies</span>, as well as explore <span style="color: #00BCD4">new opportunities</span>. 
+</p>
