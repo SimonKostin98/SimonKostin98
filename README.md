@@ -72,3 +72,17 @@
 	<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 	<img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white">
 </p>
+<br />
+
+---
+
+## 📂 My Projects
+
+---
+
+<br />
+<p>
+	<a href="https://github.com/SimonKostin98/portfolio">
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=SimonKostin98&repo=portfolio&theme=react">
+	</a>
+</p>
