@@ -9,7 +9,7 @@
   </a>
 </p>
 
-<p style="display: flex; gap: 30px; justify-content: center">
+<p align="center">
 	<a href="https://www.linkedin.com/in/simonkostin/">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 	</a>
@@ -19,26 +19,18 @@
 </p>
 <br />
 
----
 
 ## 🧑🏻‍💻 About Me
 
----
 
-<p style="font-size: 20px">
-	I'm a <span style="color: #00BCD4">Full Stack Developer</span> who specializes in building scalable and flexible web applications. I have been coding for 8+ years and graduated with a B.Sc. in <span style="color: #00BCD4">Computer Science</span> and a M.Sc. in <span style="color: #00BCD4">Software Engineering</span>. As an avid learner, I like to try out the <span style="color: #00BCD4">latest technologies</span>, as well as explore <span style="color: #00BCD4">new opportunities</span>. 
-</p>
+I'm a Full Stack Developer who specializes in building scalable and flexible web applications. I have been coding for 8+ years and graduated with a B.Sc. in Computer Science and a M.Sc. in Software Engineering. As an avid learner, I like to try out the latest technologies, as well as explore new opportunities. 
+
 <br />
-
----
 
 ## 🛠️ My favorite Tools
 
----
 
-<br />
-
-<h3 style="font-size: 20px; margin-bottom: 15px">💻 Frontend</h3>
+<h4>💻 Frontend</h3>
 <p>
 	<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -48,7 +40,7 @@
 	<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
 </p>
 
-<h3 style="font-size: 20px; margin-bottom: 15px">🗃 Backend</h3>
+<h4>🗃 Backend</h3>
 <p>
 	<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
@@ -59,13 +51,13 @@
 	<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
-<h3 style="font-size: 20px; margin-bottom: 15px">🗄 Databases</h3>
+<h4>🗄 Databases</h3>
 <p>
 	<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 	<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
-<h3 style="font-size: 20px; margin-bottom: 15px">🖥 Work Setup</h3>
+<h4>🖥 Work Setup</h3>
 <p>
 	<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 	<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
@@ -74,13 +66,8 @@
 </p>
 <br />
 
----
-
 ## 📂 My Projects
 
----
-
-<br />
 <p>
 	<a href="https://github.com/SimonKostin98/portfolio">
 		<img src="https://github-readme-stats.vercel.app/api/pin/?username=SimonKostin98&repo=portfolio&theme=react">
@@ -88,13 +75,8 @@
 </p>
 <br />
 
----
-
 ## 📊 GitHub Stats
 
----
-
-<br />
 <p>
 	<img src="https://github-readme-stats.vercel.app/api?username=SimonKostin98&theme=react" height="192px" style="margin-right: 20px"/>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimonKostin98&layout=compact&theme=react" height="192px">
